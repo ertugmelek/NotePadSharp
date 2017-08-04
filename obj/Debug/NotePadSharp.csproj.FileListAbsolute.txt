@@ -1,0 +1,48 @@
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.frmAra.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\Mesut\Documents\Visual Studio 2013\Projects\404-A\2-C#WinForms\13.04.2017\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.frmNote.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.frmAra.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.frmNote.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\useryazilim3\Desktop\Uygulamalar\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.frmAra.resources
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.frmNote.resources
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\CASPER\Desktop\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.exe.config
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.exe
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.pdb
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.exe
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\bin\Debug\NotePadSharp.pdb
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.csprojResolveAssemblyReference.cache
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.FrmAna.resources
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.frmAra.resources
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.FrmHakkimizda.resources
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.frmNote.resources
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.Properties.Resources.resources
+C:\Users\CASPER\Desktop\20170413_Odev\20170413_Lecture\NotePadSharp\obj\Debug\NotePadSharp.csproj.GenerateResource.Cache
